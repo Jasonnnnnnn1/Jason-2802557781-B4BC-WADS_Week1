@@ -23,6 +23,6 @@ Good security helps protect user data and builds trust with users.
 
 ## Related Images
 
-![Web Security](https://upload.wikimedia.org/wikipedia/commons/3/3a/Computer_security.svg)
+![Web Security](https://www.imperva.com/learn/wp-content/uploads/sites/13/2019/01/web-application-firewall.png)
 
-![Cyber Security](https://upload.wikimedia.org/wikipedia/commons/5/5a/Cyber_Security.jpg)
+![Cyber Security](https://marvel-b1-cdn.bc0a.com/f00000000310757/www.fortinet.com/content/dam/fortinet/images/cyberglossary/advanced-cybersecurity-solutions.png)
